@@ -1,19 +1,20 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
 
 }
-body{
-    background-color: black;
+
+body {
+    background-color: white;
     color: aqua;
 }
-h1{
-    font-style:italic ;
+
+h1 {
+    font-style: italic;
 }
 
-.my-column{
-    background:red;
-    text-align: center;
-    min-height: 100px;
-    margin-bottom:30px;
+.mybox {
+    background: black;
+    color: blueviolet;
+    margin-bottom: 30px;
 }
